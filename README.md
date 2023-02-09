@@ -23,6 +23,7 @@ Run the following command to start the application: python Weather.py
 Input the name of the city in the text box.
 Click on the "Get Weather" button to fetch the weather information.
 The temperature and weather icon will be displayed on the screen.
+
 Note: As this application uses web scraping to fetch the weather information, the results may vary based on the Google search results page.
 
 # Conclusion:
