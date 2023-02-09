@@ -7,7 +7,7 @@ The Weather App is a simple GUI application that helps users get the current wea
 
 User can input the name of a city.
 The application fetches the weather information for the given city from the Google search results page.
-The application displays the temperature and a weather icon representing the current weather conditions of the city.
+The application displays the temperature and its name of a city.
 
 # Dependencies:
 
@@ -22,7 +22,6 @@ Open the terminal and navigate to the folder where you have cloned the repositor
 Run the following command to start the application: python Weather.py
 Input the name of the city in the text box.
 Click on the "Get Weather" button to fetch the weather information.
-The temperature and weather icon will be displayed on the screen.
 
 Note: As this application uses web scraping to fetch the weather information, the results may vary based on the Google search results page.
 
